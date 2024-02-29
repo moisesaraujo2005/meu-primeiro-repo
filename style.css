@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(233, 218, 135);
+    
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card {
+    background-color: rgb(94, 128, 139);
+    width: 500px;
+    height: fit-content;
+    border-radius: 25px;
+    border: solid 5px black;
+    margin-bottom: 8px;
+
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    background-image: url("https://cdn.icon-icons.com/icons2/2859/PNG/512/avatar_face_man_boy_profile_smiley_happy_people_icon_181659.png");
+    background-size: cover;
+}
+
+.card2 {
+    background-color: violet;
+    width: 500px;
+    height: fit-content;
+    border-radius: 25px;
+    border: solid 5px black;
+    margin-bottom: 8px;
+}
+
+.box2 {
+    width: 150px;
+    height: 150px;
+    background-image: url(https://images.vexels.com/media/users/3/157837/isolated/preview/db181fb308b9a32197d9c3cadc58c4d3-avatar-de-mulher-com-corte-assimetrico.png);
+    background-size: cover;
+}
+
